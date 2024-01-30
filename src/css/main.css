@@ -1,0 +1,51 @@
+/* MAIN */
+
+.container-page{
+    background-color: var(--cream);
+    display: flex;
+    justify-content: center;
+}
+
+.container-product{
+    border-radius: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100dvh;
+    width: 50%;
+    background-color: var(--white);
+}
+
+.container-product__information{
+    text-align: left;
+}
+
+.title-category{
+    font-family: var(--font-family-montserrat);
+}
+
+.title-product{
+    font-family: var(--font-family-fraunces);
+    font-weight: var(--font-weights-xl);
+}
+
+.description-product{
+    font-family:var(--font-family-montserrat) ; 
+}
+
+/* FOOTER*/
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+/* RESPONSIVE */
+
+/* Layout */
+
+/* The designs were created to the following widths: - Mobile: 375px - Desktop: 1440px */
