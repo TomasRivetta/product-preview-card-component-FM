@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Hub Repository](https://github.com/TomasRivetta/product-preview-card-component-FM)
+- Live Site URL: [Git Hub Pages](https://tomasrivetta.github.io/product-preview-card-component-FM/)
 
 ## My process
 
